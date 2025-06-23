@@ -1,5 +1,5 @@
 # Java-projects
-1.EMPLOYEE MANAGEMENT SYSTEM
+**1.EMPLOYEE MANAGEMENT SYSTEM**
 # 🧑‍💼 Employee Management System (Java 22)
 
 A complete **Employee Management System** written in **Java 22** with  **Console** . The system supports managing employee data, role-based categorization, payroll statistics, CSV persistence, and more.
